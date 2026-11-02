@@ -1,0 +1,4 @@
+- [x] Reduce mobile scene resolution, geometry, draw calls, and idle rendering.
+- [x] Check all portfolio sections for mobile readability and scrolling.
+- [x] Run rendering-policy tests and phone/desktop visual checks.
+- [x] Prevent preview source labels from reaching Three.js host objects and add a regression test.
